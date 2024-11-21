@@ -3,4 +3,3 @@ pandas
 numpy
 tensorflow
 opencv-python
-xgboost
