@@ -1,0 +1,79 @@
+[
+    {
+        "Penyakit": "Sehat",
+        "Gejala dan tanda": [
+            "Tidak Sakit",
+            "Tanda lain"
+        ],
+        "Penyebab": [
+            "Kesehatan yang baik tanpa adanya kondisi medis yang mendasari."
+        ],
+        "Pengobatan": [
+            "Tidak diperlukan pengobatan",
+            "Melakukan pemeriksaan kesehatan secara berkala."
+        ]
+    },
+    {
+        "Penyakit": "Ringworm",
+        "Gejala dan tanda": [
+            "Lesi berbentuk bulat atau oval pada kulit, biasanya tanpa rambut, berwarna kelabu, dan bersisik. ",
+            "Lesi ini sering kali ditemukan di area kepala, leher, dan tubuh bagian atas."
+        ],
+        "Penyebab": [
+            "Infeksi jamur, terutama dari genus Trichophyton atau Microsporum"
+        ],
+        "Pengobatan": [
+            "Menggunakan salep antijamur seperti miconazole atau clotrimazole pada area yang terinfeksi. ",
+            "Penyemprotan area ternak dengan fungisida juga dapat membantu mencegah penyebaran. ",
+            "Kebersihan kandang dan lingkungan sangat penting untuk mengurangi risiko infeksi."
+        ],
+        "": "Gambar"
+    },
+    {
+        "Penyakit": "Pediculosis (Infestasi Kutu)",
+        "Gejala dan tanda": [
+            "Hewan sering kali terlihat menggaruk atau menggosok tubuh mereka pada benda keras ",
+            "Bulu tampak kusam",
+            "Adanya luka atau goresan akibat garukan K",
+            "Kehilangan nafsu makan. ",
+            "Terdapat kutu pada kulit dan bulu, terutama di area kepala, leher, dan pangkal ekor."
+        ],
+        "Penyebab": [
+            "Infestasi kutu, terutama dari spesies Haematopinus eurysternus (kutu penghisap darah) atau Bovicola bovis (kutu penggigit)."
+        ],
+        "Pengobatan": [
+            "Penggunaan insektisida topikal seperti permethrin, atau ivermectin secara injeksi (juga efektif melawan parasit internal). ",
+            "Perawatan kebersihan lingkungan juga penting untuk mengendalikan kutu."
+        ]
+    },
+    {
+        "Penyakit": "Lumpy Skin Disease",
+        "Gejala dan tanda": [
+            "Terdapat nodul keras pada kulit yang dapat muncul di berbagai area tubuh",
+            "Demam tinggi, pembengkakan kelenjar limfa, dan terkadang adanya lesi pada mulut atau hidung.",
+            "Lesi dapat berkembang menjadi ulkus atau luka terbuka."
+        ],
+        "Penyebab": [
+            "Virus Lumpy Skin Disease Virus (LSDV) yang tergolong dalam keluarga Poxviridae. Penyakit ini ditularkan melalui vektor seperti nyamuk dan lalat."
+        ],
+        "Pengobatan": [
+            "Tidak ada pengobatan spesifik, namun pengelolaan termasuk pengobatan simptomatik dan pencegahan infeksi sekunder menggunakan antibiotik. ",
+            "Pencegahan terbaik adalah melalui vaksinasi dan pengendalian vektor."
+        ]
+    },
+    {
+        "Penyakit": "Dermatophilosis",
+        "Gejala dan tanda": [
+            "Lesi kulit yang berkerak dan basah, terutama pada area punggung dan ekstremitas. ",
+            "Lesi cenderung menebal, kasar, dan dapat menyebabkan ketidaknyamanan pada hewan."
+        ],
+        "Penyebab": [
+            "Bakteri Dermatophilus congolensis, yang menyebar melalui kontak langsung atau melalui vektor seperti lalat. ",
+            "Kondisi lingkungan lembab dapat memicu perkembangan infeksi ini."
+        ],
+        "Pengobatan": [
+            "Penggunaan antibiotik seperti oxytetracycline atau penicillin. ",
+            "Perbaikan lingkungan, mengurangi kelembaban, dan menjaga kebersihan sangat penting untuk pencegahan."
+        ]
+    }
+]
