@@ -1,4 +1,4 @@
-# Build Docker image for image classification
+# Build Docker image for diseases classification from image
 This repository contains the code to build a Docker Image, which will then be deployed to IBM Cloud. Model can predict cattle disease from image.
 
 # Prerequisites
@@ -11,9 +11,9 @@ Make sure you have installed Docker on your local machine.
   ```
 2. Build te Image
   ```sh
-    docker build -t image-classification:latest .
+    docker build -t disease-classification-from-image:latest .
   ```  
 3. Verify the Image
    ```sh
     docker images
-   You should see image-classification with the tag `latest` in the list.```
+   You should see disease-classification-from-image with the tag `latest` in the list.```
